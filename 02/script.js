@@ -5,7 +5,6 @@
 // Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
 const numInformado = Number(window.prompt('Informe um número para verificar se ele pertence à sequência de Fibonacci:'))
-// const numInformado = 40
 
 const sequenciaFibonacci = [0, 1]
 
@@ -41,6 +40,8 @@ calcularFibonacci(numInformado)
 
 if(sequenciaFibonacci.includes(numInformado)) {
     document.write(`O número ${numInformado} pertence à sequência de Fibonacci! 🎉`)
+} else if(isNaN(numInformado)) {
+    document.write('Valor informado não é um número! 🛑')
 } else {
     document.write(`O número ${numInformado} não pertence à sequência de Fibonacci! 🛑`)
 }
