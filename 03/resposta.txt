@@ -1,0 +1,6 @@
+3 - a) seguindo a sequência de números ímpares, o próximo número será 9;
+    b) seguindo a sequência que multiplica por dois o número anterior, o próximo número será 128;
+    c) seguindo a sequencia que soma o número ímpar em subsequente ao último número ímpar, ao último número da sequência para obter o próximo, esse número será 49;
+    d) seguindo a sequência que soma uma sequencia de números iniciando em um, e a este número soma-se o próximo número ímpar, e então o resultado desse número é multiplicado por 4, o próximo número da sequência deve ser 100;
+    e) seguindo a sequência fibonacci, visto acima, o próximo número será 13;
+    f) seguindo a sequência de números que iniciam com a letra D, o próximo número será 200;
