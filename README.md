@@ -5,7 +5,7 @@ Desafio técnico da Target Sistemas 2024
 
 ## Descrição do desafio
 
-
+Resolver cinco desafios sendo, três de lógica e dois de programação.
 
 
 ## 🛠 Tecnologias utilizadas
